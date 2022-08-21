@@ -1,0 +1,37 @@
+body{
+    font-family: 'Pacifico', cursive;
+    background-color:rgb(238, 119, 117);
+}
+
+.sound{
+    background-color: pink;
+    color:darkviolet ;
+}
+
+.sound h2{
+    font-size:40px;
+    text-shadow: 4px 4px 5px grey;
+}
+.sound h4{
+    color: black;
+    letter-spacing: 3px ;
+}
+
+#body_div button{
+    margin-top: 20px;
+    width: 15%;
+    letter-spacing: 4px;
+    border-radius: 10px;
+}
+
+#footer{
+    color: darkblue;
+    background-color:rgb(247, 205, 107) ;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 20px;
+    padding: 10px;
+    text-shadow: 5px 5px 7px grey;
+}
